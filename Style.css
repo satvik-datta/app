@@ -1,0 +1,22 @@
+img {
+    width: 1000px;
+    height: 1000px;
+}
+
+body {
+    text-align: center;
+    background-color: firebrick;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-top: 30px
+}
+
+Topic {
+    font-family: monospace;
+    font-size: 100px;
+}
+.about school{
+    
+}
+
